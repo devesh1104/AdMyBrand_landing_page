@@ -2,9 +2,9 @@
 
 A cutting-edge SaaS landing page for an AI-powered marketing platform, built with Next.js 14+ and modern design principles. Experience the future of AI marketing with our comprehensive suite of tools designed to revolutionize your brand's digital presence.
 
-## 🌐  Demo
+## 🌐 Live Demo
 https://github.com/user-attachments/assets/0f1c2d51-9ec6-4af3-a4bc-0bc070ef7041
-
+Link : https://ad-my-brand-landing-page.vercel.app/
 ## 📋 Project Prompt
 
 This project was built based on the following comprehensive prompt:
