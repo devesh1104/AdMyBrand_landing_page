@@ -311,9 +311,6 @@ This project extensively leveraged AI assistance for:
 
 **Total AI Contribution**: ~75% of development time saved through AI-assisted coding, design decisions, and content creation.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
