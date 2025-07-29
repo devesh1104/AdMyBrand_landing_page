@@ -330,11 +330,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Email**: Contact for collaboration opportunities
 
 ---
-
-**Built with ❤️ and AI assistance for ADmyBRAND AI Suite**
-
-*Empowering businesses with next-generation AI marketing solutions*
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/devesh1104/admybrand-ai-sparkle)
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/devesh1104/admybrand-ai-sparkle)
-
